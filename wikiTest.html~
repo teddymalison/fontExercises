@@ -3,26 +3,11 @@
 <head>
 <title>Philadelphia</title>
 <meta charset="utf-8" />
-<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 <style>
-body {
-}
-#mainHeading h1{
-	font-family: 'Lobster', cursive;
-	color: pink;
-}
-#geography h2{
-	font-family: 'Lobster', cursive;
-	color: green;
-}
-#architecture h3{
-	font-family: 'Lobster', cursive;
-}
-	
+
 </style>
 </head>
 <body>
-
 <div id="mainHeading">
 	<h1>Philadelphia</h1>
 	From <a href="http://en.wikipedia.org/wiki/Philadelphia">Wikipedia, the Free encyclopedia</a>
